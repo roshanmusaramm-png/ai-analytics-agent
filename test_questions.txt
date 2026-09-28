@@ -1,0 +1,6 @@
+What was total sales by region?
+Which product category has the highest profit?
+Show me monthly sales trend over time
+Which region has the lowest sales?
+What are the top 5 best-selling products by sales amount?
+Which customer segment generates the most profit?
