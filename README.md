@@ -118,3 +118,4 @@ Python, DuckDB, pandas, Anthropic API (Claude), Plotly, Streamlit
 
 \- \[Add 2 or 3 honest lessons here, e.g. dates stored as text made the model guess the wrong format, and converting them to real dates at load time fixed it more reliably than retrying.]
 
+"# ai-analytics-agent" 
